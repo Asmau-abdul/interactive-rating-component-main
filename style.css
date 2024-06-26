@@ -26,8 +26,8 @@
 }
 
 @font-face {
-    font-family: Inter-bold;
-    src: url(assets/fonts/Inter-VariableFont_slnt\,wght.ttf);
+    font-family: overpass;
+    src: url(fonts/static/Overpass-Regular.ttf);
 }
 
 html{
@@ -40,6 +40,7 @@ html{
 body, html {
     height: 100%;
     margin: 0;
+    font-family: overpass;
     padding: 0;
     display: flex;
     justify-content: center;
